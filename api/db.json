@@ -1,0 +1,73 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Jacobson",
+            "id": 1,
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Rebeccabson",
+            "id": 2,
+            "departmentId": 3,
+            "computerId": 2
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Buffalo",
+            "id": 3,
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "firstName": "Tina",
+            "lastName": "Bae",
+            "id": 4,
+            "departmentId": 1,
+            "computerId": 4
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "make": "Lenovo",
+            "model": "ThinkStation",
+            "year": 2017
+        },
+        {
+            "id": 2,
+            "make": "Dell",
+            "model": "Inspiron",
+            "year": 2018
+        },
+        {
+            "id": 3,
+            "make": "Apple",
+            "model": "MacBook Pro",
+            "year": 2016
+        },
+        {
+            "id": 4,
+            "make": "Lenovo",
+            "model": "ThinkStation",
+            "year": 2016
+        }
+        
+    ],
+    "departments": [
+        {
+            "name": "Human Resources",
+            "id":1
+        },
+        {
+            "name": "Marketing",
+            "id":2
+        },
+        {
+            "name": "Sales",
+            "id":3
+        }
+    ]
+}
